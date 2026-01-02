@@ -1,0 +1,7 @@
+streamlit>=1.30
+earthengine-api>=0.1.390
+geemap>=0.32.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+folium>=0.14.0
+pandas>=1.5.0
